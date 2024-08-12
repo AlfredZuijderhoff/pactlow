@@ -1,0 +1,3 @@
+nom_recette,ingredients,temps_deshydratation,quantite_eau
+orzotto,"{'Orzo': 100.0, 'Parmesan': 60.0, 'Épinards': 20.0, 'Champignons bruns': 60.0, 'Chou-fleur': 120.0, 'Sel': 1.6, 'Poivre': 1.0}",14,210
+nouilles,"{'hachis de porc': '83 gr', 'nouilles': '67 gr', 'gingembre': '8,3 gr', 'ail': '8,3 gr', 'tamarin': '0,67 cac', 'vinaigre de riz': '0,67 cac', 'beurre de cacahuètes': '0,67 cac', 'huile de sésame': '1,33 cac', 'sauce soja salée': '1 cac', 'courgettes': '67 gr'}",14,225
